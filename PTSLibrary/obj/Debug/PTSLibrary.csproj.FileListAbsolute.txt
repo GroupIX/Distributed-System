@@ -1,0 +1,7 @@
+D:\BCT2307\PTSLibrary\bin\Debug\PTSLibrary.dll.config
+D:\BCT2307\PTSLibrary\bin\Debug\PTSLibrary.dll
+D:\BCT2307\PTSLibrary\bin\Debug\PTSLibrary.pdb
+D:\BCT2307\PTSLibrary\obj\Debug\PTSLibrary.csproj.AssemblyReference.cache
+D:\BCT2307\PTSLibrary\obj\Debug\PTSLibrary.csproj.CoreCompileInputs.cache
+D:\BCT2307\PTSLibrary\obj\Debug\PTSLibrary.dll
+D:\BCT2307\PTSLibrary\obj\Debug\PTSLibrary.pdb

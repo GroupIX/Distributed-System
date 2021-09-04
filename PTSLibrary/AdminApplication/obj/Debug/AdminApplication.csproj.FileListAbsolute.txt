@@ -1,0 +1,14 @@
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.csproj.AssemblyReference.cache
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.cache
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.csproj.CoreCompileInputs.cache
+D:\BCT2307\PTSLibrary\AdminApplication\bin\Debug\AdminApplication.exe.config
+D:\BCT2307\PTSLibrary\AdminApplication\bin\Debug\AdminApplication.exe
+D:\BCT2307\PTSLibrary\AdminApplication\bin\Debug\AdminApplication.pdb
+D:\BCT2307\PTSLibrary\AdminApplication\bin\Debug\PTSLibrary.dll
+D:\BCT2307\PTSLibrary\AdminApplication\bin\Debug\PTSLibrary.pdb
+D:\BCT2307\PTSLibrary\AdminApplication\bin\Debug\PTSLibrary.dll.config
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.csproj.CopyComplete
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.exe
+D:\BCT2307\PTSLibrary\AdminApplication\obj\Debug\AdminApplication.pdb

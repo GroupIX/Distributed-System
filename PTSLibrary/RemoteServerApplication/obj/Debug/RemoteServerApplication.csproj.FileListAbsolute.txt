@@ -1,0 +1,11 @@
+D:\BCT2307\PTSLibrary\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+D:\BCT2307\PTSLibrary\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe
+D:\BCT2307\PTSLibrary\RemoteServerApplication\bin\Debug\RemoteServerApplication.pdb
+D:\BCT2307\PTSLibrary\RemoteServerApplication\bin\Debug\PTSLibrary.dll
+D:\BCT2307\PTSLibrary\RemoteServerApplication\bin\Debug\PTSLibrary.pdb
+D:\BCT2307\PTSLibrary\RemoteServerApplication\bin\Debug\PTSLibrary.dll.config
+D:\BCT2307\PTSLibrary\RemoteServerApplication\obj\Debug\RemoteServerApplication.csproj.AssemblyReference.cache
+D:\BCT2307\PTSLibrary\RemoteServerApplication\obj\Debug\RemoteServerApplication.csproj.CoreCompileInputs.cache
+D:\BCT2307\PTSLibrary\RemoteServerApplication\obj\Debug\RemoteServerApplication.csproj.CopyComplete
+D:\BCT2307\PTSLibrary\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+D:\BCT2307\PTSLibrary\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb
